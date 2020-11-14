@@ -1,0 +1,95 @@
+/* Ubuntu Font */
+#html, body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+}
+
+/* Custom text color */
+.txt-color-x-light{
+    color: #FFF!important;
+}
+.txt-color-light{
+    color: #F7F7F7!important;
+}
+.txt-color-mid-x-light{
+    color: #E5E5E5!important;
+}
+.txt-color-mid-light{
+    color: #CDCDCD!important;
+}
+.txt-color-mid-dark{
+    color: #666!important;
+}
+.txt-color-dark{
+    color: #111!important;
+}
+.txt-color-x-dark{
+    color: #000!important;
+}
+.txt-color-negative{
+    color: #c7162b!important;
+}
+.txt-color-caution{
+    color: #f99b11!important;
+}
+.txt-color-positive{
+    color: #0e8420!important;
+}
+.txt-color-link{
+    color: #06c!important;
+}
+.txt-brand-color{
+    color: #f34607!important;
+}
+
+/* Custom background color */
+.bg-color-x-light{
+    background-color: #FFF;
+}
+.bg-color-light{
+    background-color: #F7F7F7;
+}
+.bg-color-mid-x-light{
+    background-color: #E5E5E5;
+}
+.bg-color-mid-light{
+    background-color: #CDCDCD;
+}
+.bg-color-mid-dark{
+    background-color: #666;
+}
+.bg-color-dark{
+    background-color: #111;
+}
+.bg-color-x-dark{
+    background-color: #000;
+}
+.bg-color-negative{
+    background-color: #c7162b;
+}
+.bg-color-caution{
+    background-color: #f99b11;
+}
+.bg-color-positive{
+    background-color: #0e8420;
+}
+.bg-color-link{
+    background-color: #06c;
+}
+.bg-brand-color{
+    background-color: #f34607;
+}
+
+footer{
+    padding: 4px;
+    margin-top: 10px;
+}
+
+.card{
+    margin: 10px;
+    box-shadow: 4px 4px 4px #666;
+}
+
+.foot-contact{
+    float: right;
+}
