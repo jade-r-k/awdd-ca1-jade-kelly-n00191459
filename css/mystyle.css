@@ -116,3 +116,7 @@ footer {
 .foot-contact {
     float: right;
 }
+
+.my-margin{
+    margin-top: 10px;
+}
